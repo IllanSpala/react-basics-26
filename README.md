@@ -5,7 +5,7 @@ react course given by also an UFES Student (ShotOut to my friend FlavioMonteiro)
 This repository documents my progress through the **React Basic** course. It contains a collection of practical exercises, component studies, and the final capstone project: **React E-Mart**.
 
 ![Project Screenshot](./src/assets/screenshot.png)
-*(Note: You can replace this path with the actual path to your screenshot, e.g., image_46eaa8.png)*
+
 
 ## 📂 Repository Overview
 

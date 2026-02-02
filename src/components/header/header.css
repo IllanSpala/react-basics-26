@@ -1,0 +1,30 @@
+.header {
+  background-color: #eaeaea;
+  border-bottom: 1px solid #ccc;
+}
+
+.header-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 16px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.4rem;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  gap: 16px;
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}

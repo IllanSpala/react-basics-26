@@ -1,0 +1,7 @@
+.container{
+    background-color: white;
+    color: black;
+    padding: 2.5rem;
+    border-radius: 2rem;
+    border: 0.5rem solid darkgray;
+}

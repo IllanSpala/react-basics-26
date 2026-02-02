@@ -1,0 +1,18 @@
+.container{
+    background-color: white;
+    color: black;
+    padding: 2.5rem;
+    border-radius: 2rem;
+    border: 0.5rem solid gray;
+}
+
+.button{
+    background-color: red;
+    color: white;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    margin: 1rem;
+}
